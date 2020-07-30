@@ -15,15 +15,16 @@ This app consists extraction part and user side application part.
 
 ##  Demo
 
+https://j.gifs.com/yog8VV.gif
 
-https://j.gifs.com/2xB4AN.gif  
-
-[![Demo CountPages alpha](https://j.gifs.com/2xB4AN.gif)] 
+[![Demo CountPages alpha](https://j.gifs.com/yog8VV.gif)] 
 
 
-https://j.gifs.com/OMBl2p.gif
-[![Demo CountPages alpha](https://j.gifs.com/OMBl2p.gif)] 
+https://j.gifs.com/NLAxlL.gif
+[![Demo CountPages alpha](https://j.gifs.com/NLAxlL.gif)] 
          
+
+
                                                        
 https://j.gifs.com/YWP6z0.gif     
 [![Demo CountPages alpha](https://j.gifs.com/YWP6z0.gif  )]                                   
@@ -56,7 +57,7 @@ Firebase database server is used to store the infirmation about all the test.
 - **Firebase Storage** is used to store the microsoft word files.
 
 https://j.gifs.com/gZ45rl.gif
-[![Demo CountPages alpha](https://https://j.gifs.com/gZ45rl.gif)]
+[![Demo CountPages alpha](https://j.gifs.com/gZ45rl.gif)]
 
 - **Firebase Firestore** which is a **No Sql** database is used to store the infirmation about each test such as docx file link, test duration, marks for the correct and wrong answer etc.
 
